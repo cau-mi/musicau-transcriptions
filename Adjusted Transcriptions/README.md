@@ -1,0 +1,12 @@
+
+# Adjusted Transcriptions
+
+[![License: CC-BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0)
+
+## About
+
+This corpus contains the original transcriptions of the *Choralbücher* listed in the repository README. In order to allow correct analyzation with digital tools the codes of the original transcriptions have been slightly altered (an article discussing this need for adjustments will be published soon).  For further information on sources, transcription process and more see the repository README.
+## Credits
+
+MusiCAU was developed at the Musicological Institute at Kiel University. For further information on the people involved see CONTRIBUTORS.
+The transcriptions were created and revised between January 2021 and September 2023.
